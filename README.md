@@ -4,12 +4,6 @@ A simple Wikipedia search app that uses the [Wikipedia API](https://www.mediawik
 
 ---
 
-### 🚀 Demo
-
-> 🔗 [Live Demo (Optional if hosted on GitHub Pages)](https://your-username.github.io/Wikipedia-clone)
-
----
-
 ### ✨ Features
 
 * 🔍 Search for Wikipedia articles using the Wikipedia API
